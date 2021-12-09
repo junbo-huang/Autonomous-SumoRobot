@@ -2,6 +2,10 @@
 
 Source code written in C, and can be found under in the src directory
 
+Src:
+
+main.c - state control algorithm and module integration 
+
 Project is set up abd configured using STM32CubeMX software
 
 Developed in Keil uVision 5
